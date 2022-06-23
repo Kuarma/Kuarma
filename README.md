@@ -1,4 +1,1 @@
-- 👀 Hi, I’m @Kuarma
-- 👀 I’m interested in learning about computer science
-- 👀 I’m currently learning Python
-- 👀 Dont hesitate to dm me on discord Kurama#1861 i dont bite :3
+
