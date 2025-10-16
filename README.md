@@ -1,2 +1,3 @@
-I document everything that I learn here:
-https://publish.obsidian.md/kuro
+### 👋 Hey, my name is Manuel
+
+I'm a passionate junior developer and book nerd who loves to reinvent the wheel.
