@@ -3,6 +3,6 @@ I'm a C# developer from Switzerland🇨🇭, with a passion for building softwar
 
 ---
 ### ⚙️ Tools 
-JetBrains Rider with the IdeaVim plugin, Obsidian, Windows 11
+Nvim, Jetbrains Rider, Arch (Omarchy Ricing), Obsidian, Hyprland
 ### 🔭 [My learning journal](https://publish.obsidian.md/kuro)
 ---
