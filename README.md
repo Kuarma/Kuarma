@@ -4,5 +4,5 @@ I'm a C# developer from Switzerland🇨🇭, with a passion for building softwar
 ---
 ### ⚙️ Tools 
 Nvim, Tmux, Arch (Omarchy Ricing), Obsidian
-### 🔭 [My learning journal](https://publish.obsidian.md/kuro)
+### 🔭 [My Website](https://kuarma.com)
 ---
