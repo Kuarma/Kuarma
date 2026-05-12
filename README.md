@@ -3,6 +3,5 @@ I'm a C# developer from Switzerland🇨🇭, with a passion for building softwar
 
 ---
 ### ⚙️ Tools 
-Nvim, Tmux, Arch (Omarchy Ricing), Obsidian
-### 🔭 [My Website](https://kuarma.com)
+Nvim, Tmux, Arch (Omarchy Ricing)
 ---
